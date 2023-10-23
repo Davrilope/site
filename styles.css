@@ -3,3 +3,12 @@ body {
     color: #ffffff;
     font-family: 'Lato', sans-serif;
 }
+
+a {
+    color: purple;
+    cursor: pointer;
+}
+
+img {
+    cursor: pointer;
+}
